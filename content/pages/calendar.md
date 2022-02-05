@@ -8,19 +8,191 @@ Topics correspond to the reading assignments in the course text.
 
 CC = Core Conversations
 
-| Week # | Topics | KEY DATES |
-| --- | --- | --- |
-| 1 | Orientation, Review, 27A | Vocabulary quiz 27A |
-| 2 | 27A (cont.) |  |
-| 3 | 27A (cont.), 27B | Vocabulary quiz CC1 |
-| 4 | 27B (cont.), 28A | Vocabulary quiz 27B CC1 |
-| 5 | 28A (cont.), 28B | Vocabulary quiz 28B |
-| 6 | 28B (cont.) | Exam 1 |
-| 7 | 28B (cont.), 29A | Interview 1  {{< br >}}  {{< br >}}Vocabulary quiz 29A |
-| 8 | 29A (cont.), 29B | Vocabulary quiz 29B |
-| 9 | 29B (cont.), 30A | Vocabulary quiz 30A |
-| 10 | 30A (cont.) | Interview 2 |
-| 11 | 30B | Vocabulary quiz 30B |
-| 12 | 30B (cont.) | Exam 2 |
-| 13 | Supplementary Readings |  |
-| 14 | Project Presentation |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Week #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Orientation, Review, 27A
+{{< tdclose >}}
+{{< tdopen >}}
+Vocabulary quiz 27A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+27A (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+27A (cont.), 27B
+{{< tdclose >}}
+{{< tdopen >}}
+Vocabulary quiz CC1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+27B (cont.), 28A
+{{< tdclose >}}
+{{< tdopen >}}
+Vocabulary quiz 27B CC1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+28A (cont.), 28B
+{{< tdclose >}}
+{{< tdopen >}}
+Vocabulary quiz 28B
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+28B (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+28B (cont.), 29A
+{{< tdclose >}}
+{{< tdopen >}}
+Interview 1  
+  
+Vocabulary quiz 29A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+29A (cont.), 29B
+{{< tdclose >}}
+{{< tdopen >}}
+Vocabulary quiz 29B
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+29B (cont.), 30A
+{{< tdclose >}}
+{{< tdopen >}}
+Vocabulary quiz 30A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+30A (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Interview 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+30B
+{{< tdclose >}}
+{{< tdopen >}}
+Vocabulary quiz 30B
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+30B (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Supplementary Readings
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Project Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

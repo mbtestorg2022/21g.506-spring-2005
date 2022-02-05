@@ -26,15 +26,84 @@ This course covers Lessons 27 through 30 of _Japanese: The Spoken Language_. The
 Evaluation
 ----------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Daily Grade | 25%\* |
-| 2 Exams | 20% |
-| 1 Project/Presentation | 10% |
-| 2 Oral Interviews | 15% |
-| 8 Vocabulary Quizzes | 10%\*\* |
-| 7 Kanji Quizzes | 10%\*\* |
-| Homework | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Daily Grade
+{{< tdclose >}}
+{{< tdopen >}}
+25%\*
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 Exams
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 Project/Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 Oral Interviews
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8 Vocabulary Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+10%\*\*
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7 Kanji Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+10%\*\*
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \*The four lowest daily grades will be dropped.  
 \*\*One lowest quiz score will be dropped.
